@@ -2,17 +2,7 @@
 
 ![](https://raw.githubusercontent.com/CodyMason/Arduzilla/master/images/Arduboy_Godzilla%20x400.png)
 
-A work in progress city destruction game for the Arduboy
-
-![Arduboy_Godzilla%20x400|512x256](upload://6VBN7JFNbmqZLokGvihD0zQeNIh.png)
-
-A work in progress city destruction game for the Arduboy!
-
-<hr>
-
-[Get the source here on Github!](https://github.com/CodyMason/Arduzilla)
-
-<hr>
+### A work in progress city destruction game for the Arduboy
 
 ## Download Instructions:
 Please make sure you **rename the folder downloaded from Github** to `Godzilla` and open the `Godzilla.ino` file in the arduino editor in order to compile and upload the game. Sorry for the inconvenience, this will be changed in a future verion to make the download process more seamless.

@@ -1,4 +1,4 @@
-# Arduzilla
+# Arduzilla [wip] [v0.2]
 ### A work in progress city destruction game for the Arduboy
 
 ![](https://raw.githubusercontent.com/CodyMason/Arduzilla/master/images/Arduboy_Godzilla%20x400.png)

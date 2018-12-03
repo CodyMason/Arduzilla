@@ -11,15 +11,17 @@ Please make sure you **rename the folder downloaded from Github** to `Godzilla` 
 - Player Movement
 - Walking & Fire-Breathing Animations
 - Camera Scrolling
+- Destroyable Buildings
+- Points System
 
 ## Todo:
 - Add Building Objects
-  - Add Small City Buildings
+  - <strike>Add Small City Buildings</strike>
   - Add Large City Buildings
   - Add Residential Buildings
 - Add Collision Detection/Reaction
   - Add Collision Between Buildings and Kaiju
-  - Damage Buildings on Attack Collision
+  - <strike>Damage Buildings on Attack Collision</strike>
 - Add a Points System
   - Add High-Score Table
 
